@@ -1,0 +1,43 @@
+body { background-color: #D3E4CD;}
+
+.container {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+h1, button {
+    margin: 30px;
+    font-size: 5rem ;
+    color: #142F43;
+    text-shadow: inherit;
+    font-family: 'Lobster', cursive;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+button{
+    font-size: 2rem;
+    background-color: #E6DDC4; 
+    border-radius: 10px;
+}
+
+p {
+    font-size: 2rem;
+    color: #142F43;
+    font-family: 'Lobster', cursive;
+}
+
+img{
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #406343;
+    text-align: center;
+    font-family: 'Indie Flower' cursive;
+}
